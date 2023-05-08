@@ -1,0 +1,5 @@
+BMI Calculator using JavaScript
+
+1.Using HTML5, CSS and JS
+
+2.Deploying via Netlify
